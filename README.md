@@ -1,1 +1,1 @@
-# Chatbots, playing with simple implemetations in Python and .NET
+# Chatbots, playing with simple implementations in Python and .NET

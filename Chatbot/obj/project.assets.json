@@ -6371,9 +6371,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\development\\chatbot\\Chatbot\\Chatbot.csproj",
-      "projectName": "Chatbot",
-      "projectPath": "D:\\development\\chatbot\\Chatbot\\Chatbot.csproj",
+      "projectUniqueName": "D:\\development\\chatbot\\Chatbot\\.NET.csproj",
+      "projectName": ".NET",
+      "projectPath": "D:\\development\\chatbot\\Chatbot\\.NET.csproj",
       "packagesPath": "C:\\Users\\marij\\.nuget\\packages\\",
       "outputPath": "D:\\development\\chatbot\\Chatbot\\obj\\",
       "projectStyle": "PackageReference",

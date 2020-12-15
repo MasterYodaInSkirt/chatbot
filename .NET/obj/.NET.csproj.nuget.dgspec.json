@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\development\\chatbot\\Chatbot\\.NET.csproj": {}
+    "D:\\development\\chatbot\\.NET\\.NET.csproj": {}
   },
   "projects": {
-    "D:\\development\\chatbot\\Chatbot\\.NET.csproj": {
+    "D:\\development\\chatbot\\.NET\\.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\development\\chatbot\\Chatbot\\.NET.csproj",
+        "projectUniqueName": "D:\\development\\chatbot\\.NET\\.NET.csproj",
         "projectName": ".NET",
-        "projectPath": "D:\\development\\chatbot\\Chatbot\\.NET.csproj",
+        "projectPath": "D:\\development\\chatbot\\.NET\\.NET.csproj",
         "packagesPath": "C:\\Users\\marij\\.nuget\\packages\\",
-        "outputPath": "D:\\development\\chatbot\\Chatbot\\obj\\",
+        "outputPath": "D:\\development\\chatbot\\.NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
